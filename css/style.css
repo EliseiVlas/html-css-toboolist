@@ -20,16 +20,24 @@ header span{
     vertical-align: middle;  
 }
 /* regole main */
-#main{
-    
+
+.sfondo{
+    background-color: white;
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-right: 300px;
+  border-radius: 15px;
+  padding-bottom: 60px;
+  padding-top: 28px;
+  padding-left: 45px;
+  
 }
+/* regole testo main */
 #span1{
     background-color: rgb(101, 199, 255);
     color: white;
     border-radius: 3px;
     padding: 5px;
-
-
 }
 #span2{
     color: gray;
@@ -37,10 +45,7 @@ header span{
     border-radius: 5px;
     border: 1px solid gray;
 }
-.verde{
-  
-  
-}
+
 .new{
     color: white;
     background-color: rgb(101, 199, 255);
@@ -48,20 +53,6 @@ header span{
     font-size: 13px;
     padding: 7px;
    
-}
-.sfondo{
-    background-color: white;
-  margin-left: 300px;
-  margin-top: 50px;
-  margin-right: 300px;
-  border-radius: 15px;
-  padding-bottom: 28px;
-  padding-top: 28px;
-  padding-left: 30px;
-  
-}
-.head{ 
-  
 }
 .strong{
     font-size: 30px;
@@ -82,13 +73,10 @@ header span{
 #verdee{
     background-color: rgb(3, 197, 45);
 }
-
-#blu{
-    margin-bottom: 20px;
-}
 .row{
     padding-top: 15px;
 }
+/* regole cerchi verdi/rossi */
 .ok{
     font-size: 14px;
     color: rgb(23, 156, 45);
