@@ -27,13 +27,15 @@ header span{
     background-color: rgb(101, 199, 255);
     color: white;
     border-radius: 3px;
-    margin-bottom: 30px;
-    margin-top: 70px;
+    padding: 5px;
+
 
 }
 #span2{
-    border-color: gray;
-    border
+    color: gray;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
 }
 .verde{
   
@@ -42,8 +44,9 @@ header span{
 .new{
     color: white;
     background-color: rgb(101, 199, 255);
-    border-radius: 3px;
+    border-radius: 10px;
     font-size: 14px;
+    padding: 5px;
    
 }
 .sfondo{
@@ -59,4 +62,19 @@ header span{
 }
 .head{ 
   
+}
+.strong{
+    font-size: 30px;
+}
+#viola{
+    background-color: rgb(165, 80, 245);
+}
+#verde{
+    background-color: rgb(77, 150, 77);
+}
+#arancione{
+    background-color: rgb(252, 185, 42);
+}
+.row{
+    padding-top: 10px;
 }
