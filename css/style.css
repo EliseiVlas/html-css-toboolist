@@ -45,8 +45,8 @@ header span{
     color: white;
     background-color: rgb(101, 199, 255);
     border-radius: 10px;
-    font-size: 14px;
-    padding: 5px;
+    font-size: 13px;
+    padding: 7px;
    
 }
 .sfondo{
@@ -65,16 +65,41 @@ header span{
 }
 .strong{
     font-size: 30px;
+    margin-bottom: 0px;
 }
 #viola{
     background-color: rgb(165, 80, 245);
 }
 #verde{
-    background-color: rgb(77, 150, 77);
+    background-color: rgb(73, 170, 141);
 }
 #arancione{
     background-color: rgb(252, 185, 42);
 }
+#rosa{
+    background-color: rgb(199, 31, 171);
+}
+#verdee{
+    background-color: rgb(3, 197, 45);
+}
+
+#blu{
+    margin-bottom: 20px;
+}
 .row{
-    padding-top: 10px;
+    padding-top: 15px;
+}
+.ok{
+    font-size: 14px;
+    color: rgb(23, 156, 45);
+    padding: 5px;
+    border-radius: 50%;
+    border: 1px solid rgb(25, 155, 94);
+}
+.error{
+    font-size: 14px;
+    color: rgb(255, 0, 55);
+    padding: 5px;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 0, 0);
 }
