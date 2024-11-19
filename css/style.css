@@ -1,0 +1,62 @@
+/* regole generali pagina */
+body{
+    background-color: rgb(238, 238, 238);
+    font-size: 20px;
+}
+/* regolke header */
+header{
+    background-color: white;
+    margin: -8px;
+}
+header img{
+    margin-left: 20px;
+    width: 100px;
+    vertical-align: middle;
+   
+}
+header span{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;  
+}
+/* regole main */
+#main{
+    
+}
+#span1{
+    background-color: rgb(101, 199, 255);
+    color: white;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    margin-top: 70px;
+
+}
+#span2{
+    border-color: gray;
+    border
+}
+.verde{
+  
+  
+}
+.new{
+    color: white;
+    background-color: rgb(101, 199, 255);
+    border-radius: 3px;
+    font-size: 14px;
+   
+}
+.sfondo{
+    background-color: white;
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-right: 300px;
+  border-radius: 15px;
+  padding-bottom: 28px;
+  padding-top: 28px;
+  padding-left: 30px;
+  
+}
+.head{ 
+  
+}
